@@ -1,0 +1,36 @@
+*, h1, input[type=text], textarea {
+  font-family: Menlo, 'Andale Mono', monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+select,
+input[type=text] {
+  height: 55px;
+}
+
+select,
+textarea,
+input[type=text] {
+  font-size: 16px;
+  border-radius: 0 !important;
+  border-width: 3px !important;
+}
+
+
+textarea:focus,
+input[type=text]:focus {
+  border-color: #000;
+}
+
+.black {
+  color: #000;
+}
