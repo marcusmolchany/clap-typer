@@ -4,4 +4,4 @@
 
 this 👏 app 👏 is 👏 for 👏 tweeting 👏 woke 👏 shit
 
-[try 👏 it 👏 on 👏 sick.af](http://sick.af/clap-typer)
+[try 👏 it 👏 on 👏 sick.af](http://about.sick.af/clap-typer)
